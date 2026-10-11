@@ -1,7 +1,7 @@
 {
-  "versionCode": 338,
-  "versionName": "3.7.53",
-  "apkUrl": "https://github.com/hao3842850/lineage-m-battle-plus-update/releases/download/v3.7.53/battle-plus-v3.7.53.apk",
-  "sha256": "98b7740ee6eb565eaa73d2e65efad5cc20550e0da7bf5dd1bfbd8f86724305e0",
-  "notes": "最新版本！"
+  "versionCode": 365,
+  "versionName": "3.7.80",
+  "apkUrl": "https://github.com/hao3842850/lineage-m-battle-plus-update/releases/download/v3.7.80/battle-plus-v3.7.80.apk",
+  "sha256": "785cf67ff17738a39983d902db227dda63588cf8922a607b105e11756fdba293",
+  "notes": "1、(優化)功能邏輯 \n2、(調整)美化啟始頁 \n3、(新增)更新事項說明頁"
 }
