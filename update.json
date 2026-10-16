@@ -1,7 +1,7 @@
 {
-  "versionCode": 420,
-  "versionName": "3.8.35",
-  "apkUrl": "https://github.com/hao3842850/lineage-m-battle-plus-update/releases/download/v3.8.35/battle-plus-v3.8.35.apk",
-  "sha256": "eda7175dc32afb5c488b5be4a15fe014a1fa5a6b46e083797a9cfa0d2e0023e2",
-  "notes": "1、(優化)設定頁介面 \n2、(新增)監控系統[時時掌握盟友資訊] \n3、*重要*新增伺服器選擇 "
+  "versionCode": 442,
+  "versionName": "3.8.57",
+  "apkUrl": "https://github.com/hao3842850/lineage-m-battle-plus-update/releases/download/v3.8.57/battle-plus-v3.8.57.apk",
+  "sha256": "829ab9728e3bbd540bc36bb3a99e1614929df64fb63403f713ce3e4d376c553f",
+  "notes": "1、(優化)監控系統 \n2、(新增)敵人方位"
 }
