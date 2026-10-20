@@ -1,9 +1,9 @@
 {
   "_forceUpdate中文註記": "T＝強制更新（隱藏稍後更新，必須更新）；F＝一般更新（可稍後更新）",
-  "versionCode": 497,
-  "versionName": "3.9.12",
-  "apkUrl": "https://github.com/hao3842850/lineage-m-battle-plus-update/releases/download/v3.9.12/battle-plus-v3.9.12.apk",
-  "sha256": "dacdf698b0673efdb9e6cbb05a765db965ba45a7f7bd5359f5d4cce88b0bf271",
-  "forceUpdate": "T",
-  "notes": "一、（優化）目標攻擊與鎖定系統 \n二、（新增）天堂M助手＋AUTO狀態偵測 \n三、（修正）瘋狂模式AUTO連動 \n四、（新增）瘋狂模式死亡保護［偵測到角色死亡一次，立即停止瘋狂模式］ \n五、（新增）瘋狂模式開啟確認 \n六、（新增）戰鬥＋回城後停止瘋狂模式 \n七、（新增）低血量回城系統 \n八、（優化）瘋狂模式防衛流程 \n九、（調整）三槓模式提示外框 \n十、（新增）指定BOSS方位顯示 \n十一、（修正）聯防歷史讀取"
+  "versionCode": 509,
+  "versionName": "3.9.24",
+  "apkUrl": "https://github.com/hao3842850/lineage-m-battle-plus-update/releases/download/v3.9.24/battle-plus-v3.9.24.apk",
+  "sha256": "2de3d0fa1ea66a7b6b2247350adf4679c276014c31228119cd219871ee09d477",
+  "forceUpdate": "F",
+  "notes": "一、（修正）到達掛機點不會攻擊玩家 "
 }
