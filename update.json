@@ -1,9 +1,9 @@
 {
   "_forceUpdate中文註記": "T＝強制更新（隱藏稍後更新，必須更新）；F＝一般更新（可稍後更新）",
-  "versionCode": 509,
-  "versionName": "3.9.24",
-  "apkUrl": "https://github.com/hao3842850/lineage-m-battle-plus-update/releases/download/v3.9.24/battle-plus-v3.9.24.apk",
-  "sha256": "2de3d0fa1ea66a7b6b2247350adf4679c276014c31228119cd219871ee09d477",
+  "versionCode": 510,
+  "versionName": "3.9.25",
+  "apkUrl": "https://github.com/hao3842850/lineage-m-battle-plus-update/releases/download/v3.9.25/battle-plus-v3.9.25.apk",
+  "sha256": "ed86c028fcf00cea8c9a606c61c6bf1b69436c93ccdaad09071ada314ed657bb",
   "forceUpdate": "F",
-  "notes": "一、（修正）到達掛機點不會攻擊玩家 "
+  "notes": "一、（修正）到達掛機點不會攻擊玩家[2次] "
 }
