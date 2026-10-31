@@ -1,9 +1,9 @@
 {
   "_forceUpdate中文註記": "T＝強制更新（隱藏稍後更新，必須更新）；F＝一般更新（可稍後更新）",
-  "versionCode": 574,
-  "versionName": "3.9.89",
-  "apkUrl": "https://github.com/hao3842850/lineage-m-battle-plus-update/releases/download/v3.9.89/battle-plus-v3.9.89.apk",
-  "sha256": "db9df659890615ef4969464038d1e0365ee6854eba1f82d23c4d50007ae30bfe",
+  "versionCode": 618,
+  "versionName": "3.10.33",
+  "apkUrl": "https://github.com/hao3842850/lineage-m-battle-plus-update/releases/download/v3.10.33/battle-plus-v3.10.33.apk",
+  "sha256": "5836d29d1851c2e4377ebc08a5f6b4671e704b3eaddfa17e0abee3a1a697499f",
   "forceUpdate": "F",
-  "notes": "一、（重大）修正無法讀取天堂M助手+(第2次）"
+  "notes": "一、（更新）更新功能 "
 }
