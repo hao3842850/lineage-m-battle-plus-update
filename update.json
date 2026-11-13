@@ -1,9 +1,9 @@
 {
   "_forceUpdate中文註記": "T＝強制更新（隱藏稍後更新，必須更新）；F＝一般更新（可稍後更新）",
-  "versionCode": 661,
-  "versionName": "3.10.76",
-  "apkUrl": "https://github.com/hao3842850/lineage-m-battle-plus-update/releases/download/v3.10.76/battle-plus-v3.10.76.apk",
-  "sha256": "1b0b92571df2fda3436eb1b7e30b1c6bc0f00945aa9df87aa028eeac65e723bb",
+  "versionCode": 802,
+  "versionName": "3.12.19",
+  "apkUrl": "https://github.com/hao3842850/lineage-m-battle-plus-update/releases/download/v3.12.19/battle-plus-v3.12.19.apk",
+  "sha256": "﻿5d3f81c3004b1d1d83927059ff866160c952d0a01f152fef3dec73b20b4add1f",
   "forceUpdate": "F",
   "notes": "一、（更新）更新系統 "
 }
